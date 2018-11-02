@@ -7,6 +7,7 @@ namespace Checkpoint4Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!\nBestmovies ever!");
+            Console.WriteLine("Sudden Extremism");
         }
     }
 }
