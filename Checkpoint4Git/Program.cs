@@ -6,7 +6,7 @@ namespace Checkpoint4Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!\nBestmovies ever!");
+            Console.WriteLine("Hello World!\nBestmovies ever!\nCopyright Tom 2018");
         }
     }
 }
