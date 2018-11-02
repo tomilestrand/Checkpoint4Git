@@ -8,6 +8,7 @@ namespace Checkpoint4Git
         {
             Console.WriteLine("Hello World!\nBestmovies ever!");
             Console.WriteLine("Inferno of Action");
+            Console.WriteLine("Copyright Tom 2018");
         }
     }
 }
