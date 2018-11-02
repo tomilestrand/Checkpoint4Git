@@ -8,6 +8,9 @@ namespace Checkpoint4Git
         {
             Console.WriteLine("Hello World!\nBestmovies ever!");
             Console.WriteLine("Infinite Extermination");
+            Console.WriteLine("Master of Impact");
+            Console.WriteLine("Sudden Extremism");
+            Console.WriteLine("Quadruple Humiliation");
         }
     }
 }
